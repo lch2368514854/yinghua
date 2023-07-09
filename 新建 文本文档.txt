@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <img decoding="async" src="微信图片_20221210135940.jpg" alt="" width="52" height="52" title="霜">
+    <br />
+    <abbr title="World Health Organization">WHO</abbr>
+    <br>
+    <blockquote cite="http://www.worldwildlife.org/who/index.html">
+        For 50 years, WWF has been protecting the future of nature. The worlds leading conservation organization, WWF
+        works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million
+        globally.
+    </blockquote>
+    <br>
+    <p
+        style="font-family: 'Courier New', Courier, monospace;color: aquamarine;background-color: rgb(133, 9, 248);font-size: small;">
+        就是这个样子</p>
+    <br>
+    <a href="https://www.baidu.com" target="_blank" rel="noopener noreferrer">百度</a>
+    <h2 id="section1">这是第一节</h2>
+    <p>这是第一节的内容。</p>
+    <br>
+    <p style="background-color: rgb(19, 19, 14);">刚学会这个</p>
+    <a href="https://www.baidu.com"></a>
+
+    <h2 id="section2">这是第二节</h2>
+    <p>这是第二节的内容。</p>
+
+    <a href="#section1">跳转到第一节</a>
+    <a href="#section2">跳转到第二节</a>
+
+    <p style="text-align: center; font-family:Verdana, Geneva, Tahoma, sans-serif; color:blue; font-size:20px;">
+        你就是我要守护的人间烟火</p>
+
+    <div style="text-align: center;">
+        <img src="http://www.runoob.com/images/logo.png" alt="" width="100" height="100">
+    </div>
+    <p>
+        <img src="https://www.runoob.com/images/logo.png" alt="" width="100" height="100"
+            style="float: left;">你不是我要守护的人间烟火
+    </p>
+    <br>
+    <p style="text-align: center;">
+        <a href="https://www.baidu.com" target="_blank">
+            <img src="QQ图片20230625130734.jpg" alt="天空" width="100" height="100" style="text-align: center;">
+        </a>
+    </p>
+
+    <br>
+
+    <img src="盆栽.jpg" alt="盆栽" width="500" height="500" usemap="#picture" style="text-align: center;">
+    <p>
+        <map name="picture">
+            <area shape="rect" coords="0,0,100,100" href="https://www.runoob.com/images/logo.png" alt="baidu">
+        </map>
+    </p>
+
+    <table border="1" align="center" cellpadding="10" cellspacing="0">
+
+
+        <tr>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+        </tr>
+        <tr>
+            <td>1.0</td>
+            <td>1.0</td>
+            <td>1.0</td>
+        </tr>
+        <tr>
+            <td>2.0</td>
+            <td>2.0</td>
+            <td>2.0</td>
+        </tr>
+    </table>
+    <br>
+    <table border="1" align="center" cellpadding="10" cellspacing="0">
+        <caption style="background-color: aqua;">新建单元格</caption>
+        <colgroup>
+            <col span="2" style="background-color:red">
+            <col style="background-color:yellow">
+        </colgroup>
+        <tr>
+            <td>单元格1</td>
+            <td>单元格2</td>
+            <td>单元格3</td>
+        </tr>
+        <tr>
+            <td>单元格4</td>
+            <td>单元格5</td>
+            <td>单元格6</td>
+        </tr>
+    </table>
+
+    <ol start="10" style="text-align: center;">
+        <li style="text-align: center;">1</li>
+        <li style="text-align: center;">2</li>
+        <li style="text-align: center;">3</li>
+        <li style="text-align: center;">3</li>
+    </ol>
+    <ul style="text-align: center;">
+        <li>12</li>
+        <li>13</li>
+        <li>14</li>
+    </ul>
+    <br>
+    
+
+</body>
+
+</html>
